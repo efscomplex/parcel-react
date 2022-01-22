@@ -1,0 +1,25 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "source": "./src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "rm -rf dist && parcel build"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.28.0",
+    "parcel": "^2.2.1"
+  }
+}
