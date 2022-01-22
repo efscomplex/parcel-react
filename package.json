@@ -8,8 +8,8 @@
     "build": "rm -rf dist && parcel build"
   },
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.0.0-rc.0-next-13036bfbc-20220121",
+    "react-dom": "^18.0.0-rc.0-next-13036bfbc-20220121",
     "react-router-dom": "^6.2.1"
   },
   "devDependencies": {
